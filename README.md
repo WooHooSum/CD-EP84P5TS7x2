@@ -1,5 +1,3 @@
-# !UNDER CONSTRUCTION!
-
 # CD-EP84P5TS7x2
 #### A Cyberdeck meant to use a Epomaker EP84 keyboard, Raspberry Pi 5 and Two 7inch 800x480 Touchscreens.
 
@@ -26,3 +24,4 @@
 | Micro USB to USB-A | 2 |  |
 ---
 # (Build Guide)
+Coming Soon
